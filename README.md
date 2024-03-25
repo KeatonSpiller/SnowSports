@@ -1,7 +1,7 @@
 # SnowSports
 
-// holding a race for different winter sports using a
-// LLL, CLL, STL strings, char*, STL vector & 5 classes
+  <li>holding a race for different winter sports using a <li>
+  LLL, CLL, STL string, STL vector, char *, & 5 classes
 
 <pre>         
                  Snow_Race
